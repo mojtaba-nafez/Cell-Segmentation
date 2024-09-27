@@ -1,4 +1,4 @@
-# Cell-Classification Team
+# Cell-Segmentation
 ## Segmentation Project
 
 Step 1:
