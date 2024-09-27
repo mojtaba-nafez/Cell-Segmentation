@@ -1,0 +1,12 @@
+albumentations
+mlflow>=1.20.2
+numpy
+streamlit
+Pillow
+tensorflow
+pyngrok
+matplotlib
+opencv-python
+requests
+keras_unet_collection
+deep_utils
